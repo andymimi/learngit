@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
-=== it's in D disk 2 times===
+Git is a distributed version control system, you know?
+Git is free software distributed under the GPL.
